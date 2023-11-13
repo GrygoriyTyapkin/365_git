@@ -1,2 +1,16 @@
+
+FRUIT
+
 Bananas
 Apples
+
+MEAT
+
+
+
+DAIRY
+
+
+HOUSEHOLD
+
+
