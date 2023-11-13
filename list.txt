@@ -2,13 +2,16 @@
 FRUIT
 
 Bananas
-Apples
+	Apples
 
 MEAT
-Sauseges
+	Sauseges
 
 
 DAIRY
+	Milk
+	Eggs
+	Yoghurt
 
 
 HOUSEHOLD
