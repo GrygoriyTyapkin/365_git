@@ -1,17 +1,20 @@
-
 FRUIT
 
 Bananas
-Apples
+	Apples
 
 MEAT
 	Sauseges
+	HEAD
 	Bacon
 	Lamb
 	Beef
 
 
 DAIRY
+	Milk
+	Eggs
+	Yoghurt
 
 
 HOUSEHOLD
