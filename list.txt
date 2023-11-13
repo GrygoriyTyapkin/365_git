@@ -5,7 +5,10 @@ Bananas
 Apples
 
 MEAT
-Sauseges
+	Sauseges
+	Bacon
+	Lamb
+	Beef
 
 
 DAIRY
